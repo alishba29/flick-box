@@ -1,8 +1,18 @@
-# React + Vite
+# Movie Database App 🎥
+This is a simple Movie Database App that allows users to search for movies, view detailed information about them, and see their ratings and plot summaries. The app fetches movie data from the OMDb API and displays it in a user-friendly interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+🔍 Search Functionality: Users can search for movies by title and instantly get results from the OMDb API.
+📝 Movie Details Popup: Clicking on a movie card opens a popup with detailed information, including:
+Movie title
+Year of release
+IMDb rating
+Movie poster
+Plot summary
+❌ Popup Close Functionality: Users can close the popup by clicking on the "Close" button or clicking outside the popup on the dimmed background.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+React.js: Front-end library for building the user interface.
+Axios: For making API requests to the OMDb API.
+OMDb API: Used for fetching movie data (title, poster, rating, plot, etc.).
+CSS: Custom styling to create a responsive and visually appealing design
