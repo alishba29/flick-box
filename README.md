@@ -16,3 +16,9 @@ React.js: Front-end library for building the user interface.
 Axios: For making API requests to the OMDb API.
 OMDb API: Used for fetching movie data (title, poster, rating, plot, etc.).
 CSS: Custom styling to create a responsive and visually appealing design
+![IMG1](https://github.com/user-attachments/assets/893533a1-9a63-4c19-8b64-309e158cd2e5)
+![IMG2](https://github.com/user-attachments/assets/f9ee1b3c-aeec-455e-9652-0b797269b3db)
+![image](https://github.com/user-attachments/assets/8381599b-d9e2-4738-8db0-cf370a359fee)
+
+
+
